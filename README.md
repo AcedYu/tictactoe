@@ -16,7 +16,7 @@ I implement some logical algorithms such as:
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://acedyu.github.io/tictactoe/)
 
 ## Authors
 AcedYu
